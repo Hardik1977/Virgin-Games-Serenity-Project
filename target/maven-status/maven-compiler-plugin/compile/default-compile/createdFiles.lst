@@ -1,0 +1,6 @@
+com\virign\games\model\CurrencyPojo.class
+com\virign\games\constants\Path.class
+com\virign\games\constants\EndPoints.class
+com\virign\games\utils\PropertyReader.class
+com\virign\games\utils\TestUtils.class
+com\virign\games\steps\DataSteps.class
